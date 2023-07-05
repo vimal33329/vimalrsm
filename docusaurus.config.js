@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const projectName = 'Pay Stack';
+const projectName = 'Vimal Resume';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -13,7 +13,7 @@ const config = {
     locales: ['en', 'ta'],
   },
   title: projectName,
-  tagline: 'Ultimate solution for automated billing',
+  tagline: 'Dynamic Professional Driving Innovation and Results',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -80,7 +80,8 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Workflow',
+            label: 'Experience',
+			href:'/docs/category/work-experience'
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
 

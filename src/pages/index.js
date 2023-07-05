@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Ultimate solution for automated billing">
+      description="Dynamic Professional Driving Innovation and Results">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
