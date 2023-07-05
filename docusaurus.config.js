@@ -73,7 +73,7 @@ const config = {
         title: projectName,
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -132,7 +132,7 @@ const config = {
           },
         ],
         */
-        copyright: `Copyright © ${new Date().getFullYear()} Paystack `,
+        copyright: `Copyright © ${new Date().getFullYear()} Vimalrsm `,
       },
       prism: {
         theme: lightCodeTheme,

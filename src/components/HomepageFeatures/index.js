@@ -1,35 +1,32 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import mainPic from '@site/static/img/logo.png';
+
 
 const FeatureList = [
   {
-    title: 'Pay Stack Overview',
-    Svg: require('@site/static/img/main_pay.svg').default,
+    title: 'Overview',
     description: (
       <>
-paystack is a service that allows you to automate the payment of your bills, such as credit card bills, utility bills, and loan payments. By setting up an automatic payment, you can ensure that your bills are paid on time each month, without having to worry about missing a payment deadline.
 
-If you set up an auto monthly bill payment based on your salary date, the payment will be automatically deducted from your account on or after your salary date each month. This can help you to ensure that you have enough funds in your account to cover your bills and avoid late payments.
+Results-driven and highly skilled Node.js and Express web developer with 6+ years of experience. Expertise in designing and developing robust, scalable, and secure web applications. Proficient in front-end and back-end technologies, including HTML5, CSS3, JavaScript, and various databases. Strong problem-solving abilities and a collaborative team player with excellent communication skills.
 
-If you do miss a payment deadline, you may be subject to late fees or other penalties, depending on the terms and conditions of your agreement with the provider. For example, credit card companies may charge a late fee if you miss a payment or don't pay the full amount due, while utility companies may charge a fee for late or non-payment of your bill. These fees are typically outlined in the terms and conditions of your agreement with the provider.
-
-On the other hand, if you settle your bills before the due date, you may be entitled to receive an interest amount from the provider. This is because the provider may have been holding onto your funds until the due date, and if you settle your bills early, they are no longer able to earn interest on your funds. However, not all providers offer interest on early payments, and the interest rate may vary depending on the provider.
 
       </>
     ),
   }
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ title, description}) {
   return (
     <div className={clsx('col col--12')}>
       <div className="text--center">
-        <Svg  role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+				<img src={mainPic} alt="Main Picture" />
       </div>
     </div>
   );
