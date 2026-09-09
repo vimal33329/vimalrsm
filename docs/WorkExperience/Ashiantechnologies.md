@@ -4,7 +4,11 @@ sidebar_position: 4
 
 # Ashian Technologies
 
-## 11/2021 - 01/2023: Tirunelveli, India
+## Full Stack Developer
+
+🏢 **Company:** Ashian Technologies — Software product based company  
+📍 **Location:** Tirunelveli, India  
+📅 **Duration:** 11/2021 – 01/2023
 
 ## Responsibilities and Achievements
 

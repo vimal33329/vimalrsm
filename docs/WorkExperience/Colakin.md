@@ -4,8 +4,11 @@ sidebar_position: 6
 
 # Colakin
 
-## 01/2023 - 06/2023, Tirunelveli, India
-### Australian-based tech support and research company
+## Senior Software Developer
+
+🏢 **Company:** Colakin — Australian-based tech support and research company  
+📍 **Location:** Tirunelveli, India - Remote  
+📅 **Duration:** 01/2023 – 06/2023
 
 ## Responsibilities and Achievements
 
@@ -35,7 +38,7 @@ sidebar_position: 6
 ### Project 2: Paystack - Auto Bill Payment Application
 
 - Developed an auto bill payment application called Paystack for Colakin.
-- Implemented using Node.js, Cloudflare Worker, Next.js, and Docker.
+- Implemented using Node.js, Express.js, Python, FastAPI, React.js, Next.js, Cloudflare Worker, and Docker.
 - Utilized Docker to containerize the application for efficient deployment and scalability.
 - Designed and developed a user-friendly interface for automated bill payment processes.
 - Integrated payment gateways and APIs for seamless transaction processing.
@@ -47,10 +50,8 @@ Project Link: [Paystack - Auto Bill Payment](https://paystack.colakin.com)
 
 ## Technologies and Tools Used
 
-- Programming Languages: Node.js
-- Frameworks: Next.js
+- Programming Languages: Node.js, Express.js, Python
+- Frameworks: Next.js, React.js, FastAPI
 - Cloud Platform: Cloudflare Worker
 - Deployment: Docker
 - Development Tools: Git, JIRA, Agile methodologies
-
-Feel free to customize and modify the content further based on your specific experiences and achievements.

@@ -4,7 +4,11 @@ sidebar_position: 3
 
 # Cobra Software
 
-## 02/2021 - 10/2021: Coimbatore, India
+## Web Developer
+
+🏢 **Company:** Cobra Software  
+📍 **Location:** Coimbatore, India  
+📅 **Duration:** 02/2021 – 10/2021
 
 ## Responsibilities and Achievements
 

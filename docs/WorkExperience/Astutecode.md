@@ -4,8 +4,11 @@ sidebar_position: 2
 
 # Astute Code
 
-## 01/2020 - 05/2020, Nagercoil, India
-### Social media marketing company
+## Software Engineer
+
+🏢 **Company:** Astute Code — Social media marketing company  
+📍 **Location:** Nagercoil, India  
+📅 **Duration:** 01/2020 – 05/2020
 
 ## Responsibilities and Achievements
 
