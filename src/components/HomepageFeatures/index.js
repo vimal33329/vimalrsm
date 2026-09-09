@@ -10,7 +10,7 @@ const FeatureList = [
     description: (
       <>
 
-Results-driven and highly skilled Node.js and Express web developer with 6+ years of experience. Expertise in designing and developing robust, scalable, and secure web applications. Proficient in front-end and back-end technologies, including HTML5, CSS3, JavaScript, and various databases. Strong problem-solving abilities and a collaborative team player with excellent communication skills.
+Senior Cloud Specialist and Full Stack Lead with 8+ years of expertise in architecting scalable, enterprise-grade applications. Proven track record of leading high-performance engineering teams, implementing robust CI/CD pipelines, and delivering secure, high-volume cloud solutions for major banking clients. Expert in GCP cloud infrastructure, microservices architecture, and enhancing operational security. I leverage Generative AI, LLMs, and AI-assisted engineering tools, including Windsurf, to accelerate solution design, development, debugging, optimization, and documentation.
 
 
       </>

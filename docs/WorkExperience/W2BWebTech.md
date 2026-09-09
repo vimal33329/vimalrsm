@@ -4,8 +4,11 @@ sidebar_position: 1
 
 # W2B WebTech
 
-## 11/2018 - 12/2019, Tirunelveli, India
-### Robotics education and research company
+## Web Developer
+
+🏢 **Company:** W2B WebTech — Robotics education and research company  
+📍 **Location:** Tirunelveli, India  
+📅 **Duration:** 11/2018 – 12/2019
 
 ## Responsibilities and Achievements
 

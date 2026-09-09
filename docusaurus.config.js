@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const projectName = 'Vimal Resume';
+const siteTitle = 'Vimal Raj S';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -12,20 +12,20 @@ const config = {
     defaultLocale: 'en',
     locales: ['en', 'ta'],
   },
-  title: projectName,
-  tagline: 'Dynamic Professional Driving Innovation and Results',
+  title: siteTitle,
+  tagline: 'Cloud Specialist - Full Stack Lead | 8+ Years of Experience',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://vimalrsm.pages.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'vimal33329', // Usually your GitHub org/user name.
+  projectName: 'vimalrsm', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -70,7 +70,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: projectName,
+        title: siteTitle,
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
