@@ -10,7 +10,7 @@ const FeatureList = [
     description: (
       <>
 
-Senior Cloud Specialist and Full Stack Lead with 8+ years of expertise in architecting scalable, enterprise-grade applications. Proven track record of leading high-performance engineering teams, implementing robust CI/CD pipelines, and delivering secure, high-volume cloud solutions for major banking clients. Expert in GCP cloud infrastructure, microservices architecture, and enhancing operational security. I leverage Generative AI, LLMs, and AI-assisted engineering tools, including Windsurf, to accelerate solution design, development, debugging, optimization, and documentation.
+Senior Cloud Specialist and Full Stack Lead with 8.5+ years of expertise in architecting scalable, enterprise-grade applications. Proven track record of leading high-performance engineering teams, implementing robust CI/CD pipelines, and delivering secure, high-volume cloud solutions for major banking clients. Expert in GCP cloud infrastructure, microservices architecture, and enhancing operational security. I leverage Generative AI, LLMs, and AI-assisted engineering tools, including Windsurf, to accelerate solution design, development, debugging, optimization, and documentation.
 
 
       </>
@@ -26,7 +26,7 @@ function Feature({ title, description}) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-				<img src={mainPic} alt="Main Picture" />
+				<img src={mainPic} alt="Vimal Raj S" className={styles.profilePic} />
       </div>
     </div>
   );

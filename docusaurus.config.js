@@ -13,7 +13,7 @@ const config = {
     locales: ['en', 'ta'],
   },
   title: siteTitle,
-  tagline: 'Cloud Specialist - Full Stack Lead | 8+ Years of Experience',
+  tagline: 'Cloud Specialist - Full Stack Lead | 8.5+ Years of Experience',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -72,7 +72,7 @@ const config = {
       navbar: {
         title: siteTitle,
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Vimal Raj S',
           src: 'img/logo.png',
         },
         items: [

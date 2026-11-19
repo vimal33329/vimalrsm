@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ### Cloud Specialist - Full Stack Lead
 
-**B.Sc. Computer Science (2015) · Mangaluru, Karnataka, India · 8+ Years of Experience**
+**B.Sc. Computer Science (2015) · Mangaluru, Karnataka, India · 8.5+ Years of Experience**
 
 [![Email](https://img.shields.io/badge/Email-Psvimal33329%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Psvimal33329@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2082208%2098671-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918220898671)
@@ -17,7 +17,7 @@ sidebar_position: 1
 
 ## Professional Summary
 
-Senior Cloud Specialist and Full Stack Lead with 8+ years of expertise in architecting scalable, enterprise-grade applications. Proven track record of leading high-performance engineering teams, implementing robust CI/CD pipelines, and delivering secure, high-volume cloud solutions for major banking clients. Expert in GCP cloud infrastructure, microservices architecture, and enhancing operational security. I leverage Generative AI, LLMs, and AI-assisted engineering tools, including Windsurf, to accelerate solution design, development, debugging, optimization, and documentation.
+Senior Cloud Specialist and Full Stack Lead with 8.5+ years of expertise in architecting scalable, enterprise-grade applications. Proven track record of leading high-performance engineering teams, implementing robust CI/CD pipelines, and delivering secure, high-volume cloud solutions for major banking clients. Expert in GCP cloud infrastructure, microservices architecture, and enhancing operational security. I leverage Generative AI, LLMs, and AI-assisted engineering tools, including Windsurf, to accelerate solution design, development, debugging, optimization, and documentation.
 
 ## Technical Skills
 
@@ -129,6 +129,16 @@ Leading backend and cloud engineering for enterprise clients on Google Cloud Pla
 - Developed and optimized the shipment tracking system for compliance and cross-platform integration.
 - Coordinated with internal teams to resolve front-end and back-end inconsistencies.
 - Communicated effectively with logistics teams and external agents to resolve functionality-related issues.
+
+## Personal Projects
+
+### Packet AI — Private Offline AI Assistant
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Offline%20AI](https://img.shields.io/badge/Offline%20AI-8A2BE2?style=flat-square) ![Speech%20Recognition](https://img.shields.io/badge/Speech%20Recognition-FF6C37?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+A Flutter-based personal AI assistant that runs fully offline with on-device LLM inference (`llamadart`), speech recognition (`sherpa_onnx`), text-to-speech (`flutter_tts`), audio playback, PDF parsing, and local SQLite storage.
+
+[Read more about Packet AI](Achievements/PacketAI)
 
 ## Education
 
