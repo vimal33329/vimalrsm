@@ -17,12 +17,12 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  // Overridable via env so the same config serves Cloudflare Pages (default)
-  // and GitHub Pages (set by .github/workflows/deploy.yml).
-  url: process.env.SITE_URL || 'https://vimalrsm.pages.dev',
+  // Live site: https://vimal33329.github.io/vimalrsm/
+  // deploy.yml sets SITE_URL/BASE_URL from the GitHub Pages config.
+  url: process.env.SITE_URL || 'https://vimal33329.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: process.env.BASE_URL || '/',
+  baseUrl: process.env.BASE_URL || '/vimalrsm/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -51,14 +51,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/vimal33329/vimalrsm/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/vimal33329/vimalrsm/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

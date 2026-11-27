@@ -12,7 +12,7 @@ sidebar_position: 1
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2082208%2098671-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918220898671)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalraj-ps-b5989b180)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimal33329)
-[![Website](https://img.shields.io/badge/Website-vimalrsm.pages.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vimalrsm.pages.dev)
+[![Website](https://img.shields.io/badge/Website-vimal33329.github.io%2Fvimalrsm-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vimal33329.github.io/vimalrsm/)
 [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobe&logoColor=white)](pathname:///Vimal_Raj_S_CV.pdf)
 
 ## Professional Summary
