@@ -13,7 +13,7 @@ sidebar_position: 1
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalraj-ps-b5989b180)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimal33329)
 [![Website](https://img.shields.io/badge/Website-vimalrsm.pages.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vimalrsm.pages.dev)
-<a href='/Vimal_Raj_S_CV.pdf' target='_blank' rel='noopener noreferrer'><img src='https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobe&logoColor=white' alt='Download CV' /></a>
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobe&logoColor=white)](pathname:///Vimal_Raj_S_CV.pdf)
 
 ## Professional Summary
 
@@ -146,7 +146,7 @@ A Flutter-based personal AI assistant that runs fully offline with on-device LLM
 
 ## Download CV
 
-A PDF copy of this resume is available here: [Download CV](/Vimal_Raj_S_CV.pdf)
+A PDF copy of this resume is available here: [Download CV](pathname:///Vimal_Raj_S_CV.pdf)
 
 ## Featured Work
 

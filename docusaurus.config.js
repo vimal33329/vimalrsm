@@ -17,16 +17,19 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://vimalrsm.pages.dev',
+  // Overridable via env so the same config serves Cloudflare Pages (default)
+  // and GitHub Pages (set by .github/workflows/deploy.yml).
+  url: process.env.SITE_URL || 'https://vimalrsm.pages.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: process.env.BASE_URL || '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'vimal33329', // Usually your GitHub org/user name.
   projectName: 'vimalrsm', // Usually your repo name.
 
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -81,7 +84,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Experience',
-			href:'/docs/category/work-experience'
+            to: '/docs/category/work-experience',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
 
