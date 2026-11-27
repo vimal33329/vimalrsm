@@ -35,7 +35,7 @@
   --ifm-color-primary-lighter: #53dbca;
   --ifm-color-primary-lightest: #76e3d5;
   --ifm-background-color: #0a1422;
-  --ifm-navbar-background-color: rgba(10, 20, 34, 0.85);
+  --ifm-navbar-background-color: #0a1422;
   --ifm-footer-background-color: #060d17;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 
@@ -46,10 +46,6 @@
   --card-shadow: 0 10px 30px -18px rgba(0, 0, 0, 0.8);
   --icon-bg: rgba(45, 212, 191, 0.12);
   --section-alt: #0d1a2b;
-}
-
-.navbar {
-  backdrop-filter: blur(10px);
 }
 
 .navbar__logo img {

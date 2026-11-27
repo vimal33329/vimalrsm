@@ -16,7 +16,7 @@ npm ci
 npm start
 ```
 
-The dev server opens at http://localhost:3000/vimalrsm/ and reloads on change.
+The dev server opens at http://localhost:3000/ and reloads on change. On GitHub Pages the same site is served under `/vimalrsm/`; the deploy workflow sets that path.
 
 ## Build
 
