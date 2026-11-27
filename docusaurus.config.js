@@ -18,11 +18,12 @@ const config = {
 
   // Set the production url of your site here
   // Live site: https://vimal33329.github.io/vimalrsm/
-  // deploy.yml sets SITE_URL/BASE_URL from the GitHub Pages config.
+  // deploy.yml sets SITE_URL/BASE_URL from the GitHub Pages config;
+  // locally the site is served from the root (http://localhost:3000/).
   url: process.env.SITE_URL || 'https://vimal33329.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: process.env.BASE_URL || '/vimalrsm/',
+  baseUrl: process.env.BASE_URL || '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -79,15 +80,19 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
+          {to: '/docs/intro', label: 'Resume', position: 'left'},
+          {to: '/docs/category/work-experience', label: 'Experience', position: 'left'},
+          {to: '/docs/category/achievements', label: 'Projects', position: 'left'},
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Experience',
-            to: '/docs/category/work-experience',
+            href: 'pathname:///Vimal_Raj_S_CV.pdf',
+            label: 'Download CV',
+            position: 'right',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
-
+          {
+            href: 'https://github.com/vimal33329',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
