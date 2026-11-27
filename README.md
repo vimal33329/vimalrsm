@@ -1,43 +1,45 @@
-# Website
+# Vimal Raj S — Portfolio
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[![Live site](https://img.shields.io/badge/Live-vimal33329.github.io%2Fvimalrsm-2e8555?style=for-the-badge&logo=githubpages&logoColor=white)](https://vimal33329.github.io/vimalrsm/)
+[![Deploy](https://github.com/vimal33329/vimalrsm/actions/workflows/deploy.yml/badge.svg)](https://github.com/vimal33329/vimalrsm/actions/workflows/deploy.yml)
 
-### Installation
+**Live:** https://vimal33329.github.io/vimalrsm/
 
-```
-$ yarn
-```
+Personal portfolio and resume of Vimal Raj S, Cloud Specialist and Full Stack Lead, built with [Docusaurus 2](https://docusaurus.io/).
 
-### Local Development
+## Local development
 
-```
-$ yarn start
-```
+Requires Node.js 16.14 or newer.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```bash
+npm ci
+npm start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+The dev server opens at http://localhost:3000/vimalrsm/ and reloads on change.
 
-### Deployment
+## Build
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```bash
+npm run build
+npm run serve
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch. 
+The static site is written to `build/`.
 
-test deployment 
+## Deployment
+
+Every push to `main` builds the site and publishes it to GitHub Pages through [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml). You can also start a deploy by hand from the **Actions** tab with **Run workflow**.
+
+The repository's Pages source must be set to **GitHub Actions** (Settings → Pages).
+
+## Project layout
+
+| Path | Contents |
+| --- | --- |
+| `src/pages/index.js` | Animated home page |
+| `src/components/` | Home page sections and inline SVG icons |
+| `docs/intro.md` | Full resume |
+| `docs/WorkExperience/` | One page per role |
+| `docs/Achievements/` | Personal projects and YouTube |
+| `static/` | Images and the CV PDF |
